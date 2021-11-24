@@ -1,3 +1,3 @@
 # restdemo
 
-This is test demo project!
+This is rest demo project!

@@ -10,4 +10,9 @@ public class restcontroller {
     public String home (){
         return "This is great";
     }
+
+    @GetMapping("/hello")
+    public String hello (){
+        return "Hello Spring";
+    }
 }
