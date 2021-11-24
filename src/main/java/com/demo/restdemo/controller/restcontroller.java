@@ -8,7 +8,7 @@ public class restcontroller {
     
     @GetMapping("/")
     public String home (){
-        return "This is great";
+        return "Azure cloud is great";
     }
 
     @GetMapping("/hello")
